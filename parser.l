@@ -257,11 +257,11 @@ luo {
     return NUM_ART2;
 }
 luu {
-    yylval = mknode0(strjoin(yytext, ": \tnumeral, article"));
+    yylval = mknode0(strjoin(yytext, ": \tnumeral, article, level=3"));
     return NUM_ART3;
 }
 luai {
-    yylval = mknode0(strjoin(yytext, ": \tnumeral, article"));
+    yylval = mknode0(strjoin(yytext, ": \tnumeral, article, level=4"));
     return NUM_ART4;
 }
 di {
