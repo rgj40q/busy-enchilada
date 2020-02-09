@@ -1,0 +1,146 @@
+[text]
+    [sentence]
+        [argument, level=0]
+            [noun phrase, level=0]
+                patre: noun, singular, level=0
+                [adjective phrase, level=0]
+                    nostrel: adjective, singular, level=0
+                [appositive phrase, level=0]
+                    cec: apposition, singular, level=0
+                    [prepositional phrase, level=1]
+                        in: preposition
+                        [argument, level=2]
+                            [noun phrase, level=2]
+                                celos: noun, plural, level=2
+        tet: verb, present
+    e: conjunction for sentence
+    [sentence]
+        [argument, level=0]
+            [noun phrase, level=0]
+                nomine: noun, singular, level=0
+                [adjective phrase, level=0]
+                    tuel: adjective, singular, level=0
+        sanctificen: verb, imperative
+    e: conjunction for sentence
+    [sentence]
+        [argument, level=0]
+            [noun phrase, level=0]
+                regne: noun, singular, level=0
+                [adjective phrase, level=0]
+                    tuel: adjective, singular, level=0
+        venen: verb, imperative
+    e: conjunction for sentence
+    [sentence]
+        [argument, level=0]
+            [noun phrase, level=0]
+                voluntate: noun, singular, level=0
+                [adjective phrase, level=0]
+                    tuel: adjective, singular, level=0
+        facen: verb, imperative
+        [prepositional phrase, level=0]
+            in: preposition
+            [argument, level=1]
+                le: article
+                [noun phrase, level=1]
+                    celi: noun, singular, level=1
+                    [adverb phrase, level=2]
+                        comom: adverb, level=2
+        eem: conjunction for adverb, level=0
+        [prepositional phrase, level=0]
+            super: preposition
+            [argument, level=1]
+                le: article
+                [noun phrase, level=1]
+                    terri: noun, singular, level=1
+                    [adverb phrase, level=2]
+                        etiamom: adverb, level=2
+    e: conjunction for sentence
+    [sentence]
+        [adverb phrase, level=0]
+            hodiem: adverb, level=0
+        [argument, level=0]
+            [noun phrase, level=0]
+                te: noun, singular, level=0
+        daen: verb, imperative
+        [prepositional phrase, level=0]
+            a: preposition
+            [argument, level=1]
+                [noun phrase, level=1]
+                    nosi: noun, singular, level=1
+        [argument, level=0]
+            [noun phrase, level=0]
+                pane: noun, singular, level=0
+                [adjective phrase, level=0]
+                    nostrel: adjective, singular, level=0
+                [adjective phrase, level=0]
+                    quotidianel: adjective, singular, level=0
+    e: conjunction for sentence
+    [sentence]
+        [argument, level=0]
+            [noun phrase, level=0]
+                te: noun, singular, level=0
+        pardonen: verb, imperative
+        [prepositional phrase, level=0]
+            a: preposition
+            [argument, level=1]
+                [noun phrase, level=1]
+                    nosi: noun, singular, level=1
+        [argument, level=0]
+            [noun phrase, level=0]
+                debites: noun, plural, level=0
+                [adjective phrase, level=0]
+                    nostrel: adjective, singular, level=0
+    e: conjunction for sentence
+    [sentence]
+        [adverb phrase, level=0]
+            comem: adverb, level=0
+            [adverb phrase, level=1]
+                etiamim: adverb, level=1
+        [argument, level=0]
+            [noun phrase, level=0]
+                nose: noun, singular, level=0
+        pardonet: verb, present
+        [prepositional phrase, level=0]
+            a: preposition
+            [argument, level=1]
+                [noun phrase, level=1]
+                    debitoris: noun, plural, level=1
+                    [adjective phrase, level=1]
+                        nostril: adjective, singular, level=1
+    e: conjunction for sentence
+    [sentence]
+        [adverb phrase, level=0]
+            nonem: adverb, level=0
+        [argument, level=0]
+            [noun phrase, level=0]
+                te: noun, singular, level=0
+        [argument, level=0]
+            [noun phrase, level=0]
+                nose: noun, singular, level=0
+        inducen: verb, imperative
+        [prepositional phrase, level=0]
+            in: preposition
+            [argument, level=1]
+                [noun phrase, level=1]
+                    tentationi: noun, singular, level=1
+    sed: conjunction for sentence
+    [sentence]
+        [argument, level=0]
+            [noun phrase, level=0]
+                te: noun, singular, level=0
+        [argument, level=0]
+            [noun phrase, level=0]
+                nose: noun, singular, level=0
+        liberen: verb, imperative
+        [prepositional phrase, level=0]
+            de: preposition
+            [argument, level=1]
+                le: article
+                [noun phrase, level=1]
+                    mali: noun, singular, level=1
+    e: conjunction for sentence
+    [sentence]
+        [argument, level=0]
+            [noun phrase, level=0]
+                one: noun, singular, level=0
+        amenet: verb, present
