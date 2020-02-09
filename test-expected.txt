@@ -10,6 +10,7 @@
                     [prepositional phrase, level=1]
                         in: preposition
                         [argument, level=2]
+                            le: article
                             [noun phrase, level=2]
                                 celos: noun, plural, level=2
         tet: verb, present
